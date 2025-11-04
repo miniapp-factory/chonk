@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Share from "@/components/share";
+import { Share } from "@/components/share";
 import { url } from "@/lib/metadata";
 
 const animals = [
